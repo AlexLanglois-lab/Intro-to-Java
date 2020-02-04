@@ -1,7 +1,7 @@
 
-package javaapplication105;
+package javaapplication22;
 
-public class JavaApplication105 {
+public class JavaApplication22 {
 
     public static void main(String[] args) {
         System.out.println("Prepare to be greeted!");
