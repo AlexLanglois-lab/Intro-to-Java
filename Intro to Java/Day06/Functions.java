@@ -1,7 +1,7 @@
 
-package javaapplication2;
+package javaapplication16;
 
-public class JavaApplication2 {
+public class JavaApplication17 {
 
     public static void main(String[] args) {
         int x = returnsThree();
