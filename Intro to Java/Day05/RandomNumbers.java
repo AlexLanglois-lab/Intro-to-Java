@@ -1,9 +1,9 @@
-package javaapplication97;
+package javaapplication13;
 
 // Allow me to use random numbers!
 import java.util.Random;
 
-public class JavaApplication97 {
+public class JavaApplication13 {
 
     public static void main(String[] args) {
         Random random = new Random(); //Gotta get me a random to random.
