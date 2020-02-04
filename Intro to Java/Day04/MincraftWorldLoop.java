@@ -8,9 +8,9 @@ public class JavaApplication7 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        for (int i=0; i<3000000; ++i) {
-            for (int j=0; j<3000000; ++j) {
-                for (int k=0; k<700; ++k) {
+        for (int i=0; i<30000000; ++i) {
+            for (int j=0; j<30000000; ++j) {
+                for (int k=0; k<256; ++k) {
                     System.out.println("k: " + k);
                 }
                 System.out.println("j: " + j);
