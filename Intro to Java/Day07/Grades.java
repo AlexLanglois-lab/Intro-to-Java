@@ -1,8 +1,8 @@
-package javaapplication104;
+package javaapplication21;
 
 import java.util.Scanner;
 
-public class JavaApplication104 {
+public class JavaApplication21 {
 
     public static void main(String[] args) {
         //Step 1: Set stuff up
