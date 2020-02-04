@@ -24,7 +24,7 @@ public class JavaApplication6 {
                 System.out.println("Not a valid entry.");
             }
         }
-        System.out.println("I've lost all hope in humanity thanks to you.");
+        System.out.println("Too many invalid entries.");
     }
 
 }
