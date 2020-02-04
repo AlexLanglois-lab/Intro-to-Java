@@ -3,19 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication94;
+package javaapplication3;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Schroeder <schroeder.austincc.edu>
- */
 public class JavaApplication94 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         char[] characters = new char[20];
