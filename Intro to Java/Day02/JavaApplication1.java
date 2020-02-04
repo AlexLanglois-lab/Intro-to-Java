@@ -7,23 +7,21 @@ import java.util.Date;
  * Not really, haha.
  * 
  * @author Langlois */
-public class JavaApplication65 {
+public class JavaApplication1 {
 
     /**
-     * This is main. It sucks.
+     * This is main.
      * @param args The args, like any program.
      */
     public static void main(String[] args) {
         System.out.println("Hello, world!");
 
-        //TOP FOUR!
+        //Primitive data types
         int inty = 3; //Integer, a whole number.
         double d = 3.1415; //Double, a real number.
         boolean b = true; //Boolean, holds either a true or a false.
         char c = 'a'; //Characters, holds a single letter. Not necessarily alphabet.
-
-        //Yeah, ok...
-        float f = 3.1415f; //Float, like a double, only it sucks. Unless doing CG.
+        float f = 3.1415f; //Float, like a double. Usefull in CG.
         short s = 3; //Short, a whole number, but very small.
         long l = 3; //Long, a whole number, but very long.
         byte yep = 3; //Byte, the shortest of the whole numbers.
@@ -35,8 +33,8 @@ public class JavaApplication65 {
         int x = 0, y = 0, z = 0;
 //        System.out.println(x);
 
-        int ohmygoditscomingrightforus = 123;
-        int oh_my_god_its_coming_right_for_us; // Python developer.
+        int firstnumber = 123;
+        int first_number; // Python developer.
         int wePreferCamelCaseSkippingCapitalizingTheFirstLetter = 3;
         String sourceUrl = "http://dgknag";
         int $welcomeHOme;
