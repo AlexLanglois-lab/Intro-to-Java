@@ -1,6 +1,6 @@
-package javaapplication96;
+package javaapplication12;
 
-public class JavaApplication96 {
+public class JavaApplication12 {
 
     public static void main(String[] args) {
         int[] fours = new int[26];
