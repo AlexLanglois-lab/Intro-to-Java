@@ -1,6 +1,6 @@
-package javaapplication91;
+package javaapplication7;
 
-public class JavaApplication91 {
+public class JavaApplication7 {
 
     /**
      * Walking across all possible squares in a Minecraft server.
