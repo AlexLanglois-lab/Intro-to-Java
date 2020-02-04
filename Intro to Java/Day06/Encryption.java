@@ -1,19 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package javaapplication3;
 
-/**
- *
- * @author javauser
- */
-public class JavaApplication3 {
+package javaapplication15;
 
-    /**
-     * @param args the command line arguments
-     */
+public class JavaApplication15 {
+
     public static void main(String[] args) {
 //        char[] message = {'H', 'e', 'l', 'l', 'o', ',', ' ', 'w', 'o',
 //        'r', 'l', 'd', '!'};
