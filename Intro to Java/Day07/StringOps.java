@@ -1,15 +1,15 @@
-package javaapplication110;
+package javaapplication23;
 
 import java.util.Scanner;
 import java.util.Random;
 
-public class JavaApplication110 {
+public class JavaApplication23 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //So far, this is all we've really done with strings, which is sad...
+        //So far, this is all we've really done with strings
         String hello = "Hello, world!";
         String hollo = "Hollo, world!";
         
