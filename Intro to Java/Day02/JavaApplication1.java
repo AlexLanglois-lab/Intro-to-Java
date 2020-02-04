@@ -3,10 +3,8 @@ package javaapplication1;
 import java.util.Date;
 
 /**
- * A JavaApplication, 1st in production. Makes people happy.
- * Not really, haha.
- * 
- * @author Langlois */
+ * A JavaApplication, 1st in production.
+ */
 public class JavaApplication1 {
 
     /**
