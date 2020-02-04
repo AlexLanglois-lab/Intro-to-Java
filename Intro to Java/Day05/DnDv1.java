@@ -1,8 +1,8 @@
-package javaapplication98;
+package javaapplication8;
 
 import java.util.Random; 
 
-public class JavaApplication98 {
+public class JavaApplication8 {
 
     public static void main(String[] args) {
         int[] stats = new int[6];
