@@ -1,8 +1,8 @@
-package javaapplication90;
+package javaapplication6;
 
 import java.util.Scanner;
 
-public class JavaApplication90 {
+public class JavaApplication6 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
