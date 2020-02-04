@@ -1,6 +1,6 @@
-package javaapplication95;
+package javaapplication10;
 
-public class JavaApplication95 {
+public class JavaApplication10 {
 
     public static void main(String[] args) {
         for (int i=1; i<=100; ++i) {
