@@ -1,18 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package javaapplication109;
+
+package javaapplication19;
 
 import java.util.Random;
 
-public class JavaApplication109 {
+public class JavaApplication19 {
 
     /**
-     * Draws a Christmas tree.
-     * 
-     * @param args The arguments that we never use.
+     * Draws a Christmas tree
      */
     public static void main(String[] args) {
         Random random = new Random();
