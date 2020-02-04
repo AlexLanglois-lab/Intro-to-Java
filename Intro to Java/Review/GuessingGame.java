@@ -1,9 +1,9 @@
-package javaapplication111;
+package javaapplication25;
 
 import java.util.Scanner;
 import java.util.Random;
 
-public class JavaApplication111 {
+public class JavaApplication25 {
 
     public static void main(String[] args) {
         Random random = new Random();
