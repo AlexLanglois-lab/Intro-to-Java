@@ -1,8 +1,8 @@
-package javaapplication99;
+package javaapplication14;
 
 import java.util.Scanner;
 
-public class JavaApplication99 {
+public class JavaApplication14 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
