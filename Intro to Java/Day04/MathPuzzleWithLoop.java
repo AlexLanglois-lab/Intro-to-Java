@@ -21,7 +21,7 @@ public class JavaApplication6 {
                 return;
             }
             else {
-                System.out.println("You're stupid.");
+                System.out.println("Not a valid entry.");
             }
         }
         System.out.println("I've lost all hope in humanity thanks to you.");
