@@ -1,8 +1,8 @@
-package javaapplication89;
+package javaapplication5;
 
 import java.util.Scanner;
 
-public class JavaApplication89 {
+public class JavaApplication5 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -12,12 +12,12 @@ public class JavaApplication89 {
             System.out.println("Give me an integer between 1 and 100!");
             input = scanner.nextInt();
             if (input > 100 || input < 1) {
-                System.out.println("You're stupid.");
+                System.out.println("Not a valid entry.");
                 retries++;
             }
             
             if (retries == 3) {
-                System.out.println("You're hopless. I give up.");
+                System.out.println("Too many invalid entries.");
                 return;
             }
         } while ((input > 100 || input < 1) && retries < 3);
