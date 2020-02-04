@@ -1,6 +1,6 @@
-package javaapplication4;
+package javaapplication17;
 
-public class JavaApplication4 {
+public class JavaApplication17 {
 
     public static void main(String[] args) {
         int x = 3;
