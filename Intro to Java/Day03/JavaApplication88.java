@@ -1,9 +1,9 @@
-package javaapplication88;
+package javaapplication2;
 
 // Useful for getting user input.
 import java.util.Scanner;
 
-public class JavaApplication88 {
+public class JavaApplication2 {
 
     public static void main(String[] args) {
 
