@@ -1,13 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package javaapplication93;
 
 import java.util.Scanner;
 
-public class JavaApplication93 {
+public class JavaApplication4 {
 
     public static void main(String[] args) {
         //Step 1: Set stuff up
